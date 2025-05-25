@@ -1,7 +1,5 @@
-import ApplicationLogo from "@/Components/ApplicationLogo";
-import { Link } from "@inertiajs/react";
 
-export default function BootstrapLayout({ children }) {
+export default function BootstrapLayout({ children  } : any ) {
     return (
         <div>
             {/* style */}
